@@ -29,7 +29,7 @@ en el uso de las etiquetas
 
 
 7.- ¿Que tipos de valor acepta JSON?
- numero numeros con decimales string otro objeto boleanos listas
+ numeros numeros con decimales string otro objeto boleanos listas
 
 
 
@@ -42,6 +42,11 @@ d.- Dos, se permite que un array sea anidado de objetos.
 
 
 9.- Usos principales de JSON
+se usa para tratar objetos de javaspript 
+se usa para tratar objetos complicados de una forma mas facil
+una base de datos (no recuerdo el nombre)lo usa como documento para guardar en sus tablas
+tambien se usa para enviar y recivir objetos aveces porque es mas ligero
+
 
 
 
