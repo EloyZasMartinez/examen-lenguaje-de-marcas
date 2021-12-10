@@ -84,9 +84,12 @@ d.- select#originalidad
 15.- Queremos seleccionar todos los li tengan el fondo de color azul ¿Como sería el selector y la regla CSS?
 
 16.- Queremos poner un margin a la izquierda y derecha de 2rem en los div que sean grid-item ¿Como sería el selector y las reglas CSS?
-
+.greed-item{
+    margin-left 2rem;
+    margin-right 2rem;
+}
 17.- ¿Que está mal en el footer? ¿Lo mostraría correctamente el navegador?
-
+se repite el encabezado tanto de apertura como dee cierre
 18.- ¿Cual es la función de las etiquetas meta?
 
 19.- Si queremos cambiar el tamaño de la letra del botón 'Enviar' cuando pasamos el ratón por encima ¿Que selector deberiamos? Y como sería la regla CSS
