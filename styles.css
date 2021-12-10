@@ -30,11 +30,14 @@ body{
     
 }
 .columnaderecha{
+    border: solid  #0075B8;
+    padding: 1px;
+    border-radius: 25px;
     float:left;
     width: 30%;
-    height: 700px;
-    margin-top: 40px;
-    background-color:white;
+    height: 400px;
+    margin-top: 150px;
+    background-color:grey;
 }
 .
 
