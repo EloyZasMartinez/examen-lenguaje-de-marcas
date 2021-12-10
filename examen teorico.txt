@@ -76,7 +76,7 @@ d.- input
 Para las siguientes preguntas se debe mirar el código html de preguntas.html
 
 14.- En CSS y teniendo en cuenta el Código HTML anterior. ¿Como sería el selector CSS valido para el DropDown de Originalidad?
-a.- select.originalidad
+a.- select.originalidad xxxxx
 b.- #original
 c.- #originalidad
 d.- select#originalidad
