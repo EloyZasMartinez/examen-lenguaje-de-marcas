@@ -13,14 +13,18 @@ se usa principalmente para maquetar documentos de proyectos
 
 
 4.- ¿Como se haria una lista ordenada de 3 items en MarkDown?
-
+(ul)
 
 
 5.- Nombra 3 ejemplos de uso de Latex
+redaccion de textos
+renderizar otros lenguajes de Marcas
+compilacion en otros formatos pdf doc...
 
 
 
 6.- ¿En que se parece el Xml y el HTML?
+en el uso de las etiquetas
 
 
 
@@ -38,6 +42,7 @@ d.- Dos, se permite que un array sea anidado de objetos.
 
 
 9.- Usos principales de JSON
+
 
 
 
