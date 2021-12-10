@@ -27,7 +27,7 @@ body{
     width: 38%;
     height: 700px;
     margin-top: 40px;
-    background-color: black;
+    
 }
 .columnaderecha{
     float:left;
@@ -55,34 +55,37 @@ p{
     margin-left: 5%;
     height: 200px; 
     margin-top: 10px;
-    background-color: whitesmoke;
+   
 }
 .barraizquierda{
-    margin-top: 50px;
+    margin-top: 75px;
     width: 32%;
     height: 200px;
     float: left;
-    background-color: black;
+    
     margin-left: 5px;
 }
 .fotos{
     width: 32%;
     height: 200px;
     float: left;
-    background-color: black;
+   
     margin-left: 5px;
 }
 .barraderecha{
-    margin-top: 50px;
+    margin-top: 75px;
     width: 32%;
     height: 200px;
     float: left;
-    background-color: black;
+    
     margin-left: 5px;
 }
 
 br{
-    style="width:50%;text-align:left;margin-left:0";
-    color: black;
+    style="width:70%;text-align:left;margin-left:0";
+    color: gray;
+}
+.formulario{
+    
 }
 
