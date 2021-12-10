@@ -1,14 +1,37 @@
 *{
     background-color: #002F77 ;
 }
+
 h3{
     color: #e0e0e0;
 }
+
 .cuadro{
-    border: solid cadetblue;
+    border: solid  #0075B8;
     padding: 1px;
     border-radius: 25px;
-    width: 400px;
-    height: 200px;
-    background-color: cadetblue  ;
+    width: 90%;
+    height: 800px;
+    margin: auto;
+    margin-top: 5%;
+    background-color: #0075B8 ;
+}
+
+.primeracolumna{
+    width: 30%;
+    height: 600px;
+   margin-top: 100px;
+   margin-left: 50px;
+   background-color: #0075B8;
+}
+
+h1{
+    background-color: #0075B8;
+}
+
+p{
+    background-color: #0075B8;
+}
+.parrafo{
+    margin-top: 150px;
 }
