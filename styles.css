@@ -2,9 +2,6 @@
     background-color: #002F77 ;
 }
 
-h3{
-    color: #e0e0e0;
-}
 
 .cuadro{
     border: solid  #0075B8;
@@ -18,14 +15,28 @@ h3{
 }
 
 .primeracolumna{
+    float: left;
     width: 30%;
     height: 600px;
-   margin-top: 100px;
-   margin-left: 50px;
+   margin-left: 15px;
    background-color: #0075B8;
 }
+.columnacentral{
+    float:left;
+    width: 40%;
+    height: 600px;
+    background-color: black;
+}
+.columnaderecha{
+    float:left;
+    width: 30%;
+    height: 600px;
+    background-color:white;
+}
+.
 
-h1{
+.logo{
+    font-size: 150px;
     background-color: #0075B8;
 }
 
@@ -33,5 +44,6 @@ p{
     background-color: #0075B8;
 }
 .parrafo{
-    margin-top: 150px;
+    margin-top: 100px;
 }
+
