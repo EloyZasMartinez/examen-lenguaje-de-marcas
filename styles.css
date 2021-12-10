@@ -4,3 +4,11 @@
 h3{
     color: #e0e0e0;
 }
+.cuadro{
+    border: solid cadetblue;
+    padding: 1px;
+    border-radius: 25px;
+    width: 400px;
+    height: 200px;
+    background-color: cadetblue  ;
+}
